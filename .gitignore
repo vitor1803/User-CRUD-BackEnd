@@ -132,3 +132,11 @@ $RECYCLE.BIN
 .DS_Store
 
 _NCrunch
+
+
+# Banco SQLite local
+*.sqlite
+
+*.csproj.user
+
+*.log

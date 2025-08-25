@@ -1,0 +1,33 @@
+# Binários e builds
+bin/
+obj/
+publish/
+
+# Arquivos de usuário/IDE
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+_ReSharper
+*.DotSettings.user
+
+# Banco de dados local
+*.sqlite
+
+# Logs
+*.log
+
+# Configs de publish
+*.Publish.xml
+*.pubxml
+*.publishsettings
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+$RECYCLE.BIN
+
+# Pastas que não devem ir para a imagem
+.vscode/
+.idea/
